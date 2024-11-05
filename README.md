@@ -1,1 +1,2 @@
 # SUN_TUC_Sample_Apps
+The sample apps were developed in Unity for the Universal Windows Platform (UWP), targeting Microsoft HoloLens 2 device. The application can be installed through the Device Portal of each particular device. The device portal is a web server, that can be accessed by entering the device’s IP address in a web browser. Navigate to the Apps section - Deploy apps, choose the package file, and install the application on the Hololens device. 
